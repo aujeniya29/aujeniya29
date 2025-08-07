@@ -1,6 +1,3 @@
-##
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aurelien22)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelien22&layout=compact)](https://github.com/aurelien22/github-readme-stats)
-
 ### Hello there ! 👋😄
 --- 
 After studies in IT when I was 20, I became co-manager of a thalassotherapy stable with my wife for years.
