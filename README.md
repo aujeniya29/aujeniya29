@@ -1,39 +1,24 @@
-### Hello there ! 👋😄
---- 
-After studies in IT when I was 20, I became co-manager of a thalassotherapy stable with my wife for years.
-That was a facinating period where I can develop many of skills useful to manage a company but at the beginning of 2020, I decide to retrieve my field of predilection : 👨‍💻 The computer science.
+## 👋 Aurélien Dincuff
 
-I'm working to be a Full-stack developer and I enjoy discovering new technologies and possibilities but I decided to specialise in : 
+IT Project Manager passionate about development and modern infrastructure.
 
-Back-end :
+After studying computer science and several years as co-manager of an equestrian therapy stable, I returned to my technical career in 2020. Today, I lead IT projects in industrial environments and develop web and mobile applications.
 
-  - Python
-  - Elixir
-  - JAVA
-  - Javascript / TypeScript
-  - Databases
+### 💻 Tech Stack
 
-Front-end :
+**Backend**
+- Python (FastAPI) | JavaScript | TypeScript | SQL | Java | GO | Rust
+- PostgreSQL | ETL | REST APIs
 
-  - HTML5, CSS3 
-  - Javascript / TypeScript
-  - ReactJS
+**Frontend**
+- React | HTML5/CSS3 | TypeScript
 
-Mobile : 
+**Mobile**
+- React Native
 
-  - React Native
+**DevOps**
+- Linux | Docker | Kubernetes | HAProxy
 
---- 
+### 📫 Contact
 
-## 🔭 **I’m currently working on**
-
-  🚀 EquiKenotte : A SaaS mobile application to help equine dentist to manage their business
-  
-  🚀 RacingStats : A web application to centralise data on racehorses. 
-
-
----
-
-## 📫 How to reach me
-- [Porfolio](https://localhost) 🌇 Comming soon 🚀
-
+[LinkedIn](https://www.linkedin.com/in/auréliendincuff-9b05aa37b)
