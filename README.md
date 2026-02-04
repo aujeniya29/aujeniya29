@@ -1,4 +1,4 @@
-## 👋 Aurélien Dincuff
+## 👋 Aurélien D.
 
 IT Project Manager passionate about development and modern infrastructure.
 
