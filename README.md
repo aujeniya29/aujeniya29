@@ -8,7 +8,7 @@ After studying computer science and several years as co-manager of an equestrian
 
 **Backend**
 - Python (FastAPI) | JavaScript | TypeScript | SQL | Java | GO | Rust
-- PostgreSQL | ETL | REST APIs
+- PostgreSQL | ETL | REST APIs | SSIS
 
 **Frontend**
 - React | HTML5/CSS3 | TypeScript
@@ -17,7 +17,7 @@ After studying computer science and several years as co-manager of an equestrian
 - React Native
 
 **DevOps**
-- Linux | Docker | Kubernetes | HAProxy
+- Linux | Docker | Kubernetes | HAProxy | Prometheus | Grafana
 
 ### 📫 Contact
 
