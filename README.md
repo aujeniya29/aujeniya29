@@ -11,7 +11,7 @@ After studying computer science and several years as co-manager of an equestrian
 - PostgreSQL | ETL | REST APIs | SSIS
 
 **Frontend**
-- React | HTML5/CSS3 | TypeScript
+- React | HTML5/CSS3 | TypeScript | Astro | Tailwindcss
 
 **Mobile**
 - React Native
